@@ -53,7 +53,7 @@ Ao final das aulas, foram criados relatórios consolidados, mostrando uma visão
 
 ![Relatório Final 1](https://github.com/bellaizaoliveira/powerbi-game-sales-insights/assets/relatorio1.jpg)
 
-![Relatório Final 2](https://prod-files-secure.s3.us-west-2.amazonaws.com/9121ed72-ac96-4800-bf58-d87c93e0f6e7/abbd1d2f-082b-4a75-969f-6f77e6bc89c5/Relatrio_2.jpg)
+![Relatório Final 2](https://github.com/bellaizaoliveira/powerbi-game-sales-insights/assets/relatorio2.jpg)
 
 ---
 

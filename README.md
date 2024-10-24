@@ -60,7 +60,7 @@ Ao final das aulas, foram criados relatórios consolidados, mostrando uma visão
 ## 📥 Como Usar
 1. Faça o clone deste repositório:
    ```bash
-   git clone https://github.com/seu-usuario/powerbi-game-sales-analysis.git
+   git clone https://github.com/bellaizaoliveira/powerbi-game-sales-insights.git
    ```
 2. Abra o arquivo `.pbix` no Power BI para explorar as visualizações interativas.
 
@@ -68,4 +68,3 @@ Ao final das aulas, foram criados relatórios consolidados, mostrando uma visão
 
 ## 📝 Conclusão
 Este projeto foi um excelente exercício para aprender a utilizar o **Power BI** em cenários do mundo real. O processo de coleta, limpeza e visualização dos dados forneceu insights poderosos sobre o mercado de jogos, com conclusões aplicáveis a estratégias de marketing e desenvolvimento de novos produtos na indústria de games.
-```

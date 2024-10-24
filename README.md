@@ -1,4 +1,4 @@
-# 📊 Power BI Project: Game Sales Analysis 🎮
+# 📊 Power BI Project: Game Sales Insights 🎮
 
 ## 📝 Overview
 Este repositório contém uma série de relatórios criados no **Power BI**, explorando as vendas globais de jogos de videogame. O projeto foi realizado ao longo de várias aulas, com o objetivo de entender quais regiões, jogos e publishers lideram as vendas e os gêneros mais populares. Cada relatório foi desenvolvido de maneira incremental, com novos insights sendo descobertos a cada etapa.

@@ -51,7 +51,7 @@ Essas perguntas foram respondidas em relatórios visuais, utilizando gráficos i
 
 Ao final das aulas, foram criados relatórios consolidados, mostrando uma visão geral do mercado global de jogos, suas tendências regionais e os principais players do mercado.
 
-![Relatório Final 1](https://prod-files-secure.s3.us-west-2.amazonaws.com/9121ed72-ac96-4800-bf58-d87c93e0f6e7/c7fd857f-7b43-4ca8-8cc1-9828711e0b54/Relatrio_1.jpg)
+![Relatório Final 1](https://github.com/bellaizaoliveira/powerbi-game-sales-insights/assets/relatorio1.jpg)
 
 ![Relatório Final 2](https://prod-files-secure.s3.us-west-2.amazonaws.com/9121ed72-ac96-4800-bf58-d87c93e0f6e7/abbd1d2f-082b-4a75-969f-6f77e6bc89c5/Relatrio_2.jpg)
 
